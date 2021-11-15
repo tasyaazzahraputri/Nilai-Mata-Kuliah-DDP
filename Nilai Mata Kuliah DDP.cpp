@@ -3,7 +3,7 @@ using namespace std;
 
 int main (){
 	
-	float nilai_DDP;
+	int nilai_DDP;
 	
 	cout<<"##############Nilai Mata Kuliah DDP#############\n";
 	cout<<"Masukkan Nilai Mata Kuliah DDP anda: ";cin>>nilai_DDP;
